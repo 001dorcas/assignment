@@ -1,0 +1,33 @@
+nav
+{
+	float: right;
+}
+img
+{
+	float: right;
+}
+
+a
+{
+	color: blueviolet;
+	
+}
+#contact-info
+{
+	background-color: rgb(141, 226, 55);
+}
+#order
+{
+	float: right;
+	text-align: right;
+}
+#contact-info{
+	display: flex;
+}
+#order,#left{
+	flex-grow: 1;
+}
+.float
+{
+    background-color: rgb(141, 226, 55);
+}
